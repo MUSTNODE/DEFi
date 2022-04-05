@@ -1,0 +1,14 @@
+.create-poll-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.navflex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.tableitemspacing {
+  padding: 20px 0 20px 0;
+  margin: 10px 0 10px 0;
+}
